@@ -11,7 +11,7 @@ subtitle:
     workshop series.
 -   [MathUI (Mathematical
     User Interfaces)](http://www.cermat.org/events/MathUI/)
-    worshop series.
+    workshop series.
 -   [ITP (Interactive Theorem Proving)](http://itp2016.inria.fr/)
     conference series (evolution/merger of
     [TPHOLs](http://isabelle.in.tum.de/nominal/activities/tphols09/) and others).
